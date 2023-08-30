@@ -1,4 +1,4 @@
-# ngrok-custom-html-errorpage
+# ngrok-custom-html-error-page
 
 This is a simple example in Bash Script, of using the ngrok API to generate Custom Error messages.
 
