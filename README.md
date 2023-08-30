@@ -34,7 +34,7 @@ from this repo.
 ## Final Thoughts
 
 This is a simple REST API request, so you can run it from almost any backend. Since there are not
-many example of this on the Web, I kept the example very simple, and just used very simple tools.
+many examples of this on the Web, I kept the example very simple, and just used very simple tools.
 
 If you want to see other examples or have any questions about this, feel free to reach out to me.
 
